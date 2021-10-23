@@ -6,7 +6,7 @@ tags:
 last_modified_at: 2021-10-20T13:53:52-07:00
 ---
 
-Hi folks, Celery here. I've been working on this project solo for a little over 2
+Hi folks, pikcel here. I've been working on this project solo for a little over 2
 years now, but I finally decided to stop procrastinating and start a development blog.
 So here it is, a blog for my game.
 

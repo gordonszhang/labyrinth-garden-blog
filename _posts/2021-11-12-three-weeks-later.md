@@ -23,7 +23,7 @@ In the last 3 weeks, I've:
 Been getting into the swing of things with Twitter, and it's been a great
 motivator for me. I'm most proud of this particular post.
 
-{% twitter https://twitter.com/pikcelery/status/1458735802033213442 %}
+https://twitter.com/pikcelery/status/1458735802033213442
 
 But as with all things, having a social media presence is a double-edged sword.
 Obsessing over likes and followers is definitely a struggle.

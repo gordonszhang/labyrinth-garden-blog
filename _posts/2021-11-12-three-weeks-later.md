@@ -23,7 +23,7 @@ In the last 3 weeks, I've:
 Been getting into the swing of things with Twitter, and it's been a great
 motivator for me. I'm most proud of this particular post.
 
-https://twitter.com/pikcelery/status/1458735802033213442
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">been making some harder, optional puzzles. also now with bgm that i made years ago<a href="https://twitter.com/hashtag/madewithunity?src=hash&amp;ref_src=twsrc%5Etfw">#madewithunity</a> <a href="https://twitter.com/hashtag/unity2d?src=hash&amp;ref_src=twsrc%5Etfw">#unity2d</a> <a href="https://twitter.com/hashtag/gamedev?src=hash&amp;ref_src=twsrc%5Etfw">#gamedev</a> <a href="https://twitter.com/hashtag/indiedev?src=hash&amp;ref_src=twsrc%5Etfw">#indiedev</a> <a href="https://twitter.com/hashtag/pixelart?src=hash&amp;ref_src=twsrc%5Etfw">#pixelart</a> <a href="https://twitter.com/hashtag/solodev?src=hash&amp;ref_src=twsrc%5Etfw">#solodev</a> <a href="https://t.co/bfdLQhwrSt">pic.twitter.com/bfdLQhwrSt</a></p>&mdash; pikcel (@pikcelery) <a href="https://twitter.com/pikcelery/status/1458735802033213442?ref_src=twsrc%5Etfw">November 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 But as with all things, having a social media presence is a double-edged sword.
 Obsessing over likes and followers is definitely a struggle.
